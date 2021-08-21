@@ -1,0 +1,1 @@
+mongodb+srv://tejas:<password>@cluster0.gfr87.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
